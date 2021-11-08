@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://demo.themefisher.com/galaxy-hugo/"
+baseURL = "https://amazing-pasteur-6f443b.netlify.app/"
 title = "Galaxy | Hugo Personal Blog template"
 theme = "galaxy"
 # post pagination
