@@ -1,8 +1,7 @@
 ---
 title: "Hi,I’m Lorena"
 # author image
-image: "![](https://i.imgur.com/RNJxElM.png)
-"
+image: "images/about1.png"
 # meta description
 description: "this is meta description"
 # save as draft
