@@ -4,7 +4,7 @@
   <div class="container">
     <div class="row justify-content-between">
       <div class="col-sm-7">
-        {{ $paginator := .Paginate (where .Site.RegularPages "Type" "regular")}}
+        {{ $paginator := .Paginate .Data.Pages }}
         {{ range $paginator.Pages }}
         <article class="card mb-5">
           <img src="{{ .Params.image | absURL }}" alt="{{ .Title }}" class="card-img-top mb-3">
