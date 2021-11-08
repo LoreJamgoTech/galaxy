@@ -1,7 +1,8 @@
 ---
-title: "Hi,I’m Alexender Xanidiver Specilized In Blog Writing And Colecting"
+title: "Hi,I’m Lorena"
 # author image
-image: "images/about.png"
+image: "![](https://i.imgur.com/RNJxElM.png)
+"
 # meta description
 description: "this is meta description"
 # save as draft
